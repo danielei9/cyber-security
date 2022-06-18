@@ -1,5 +1,5 @@
 # Configuración de Router
-![Image text](../../img/redes-practica2/topologia.PNG)
+![Image text](./img/topologia.PNG)
 
 ## Reestrablecer
 ```bash
@@ -76,7 +76,7 @@ Router#
 
 Router# show ip route
 ```
-![Image text](../../img/redes-practica2/configuracion_serial_router.PNG)
+![Image text](./img/configuracion_serial_router.PNG)
 Realizar estos pasos con los dos routers.
 
 ## Configuración de switches
